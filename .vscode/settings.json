@@ -1,8 +1,0 @@
-{
-	"[solidity]": {
-		"editor.defaultFormatter": "JuanBlanco.solidity"
-	},
-	"[javascript]": {
-		"editor.tabSize": 4
-	}
-}
